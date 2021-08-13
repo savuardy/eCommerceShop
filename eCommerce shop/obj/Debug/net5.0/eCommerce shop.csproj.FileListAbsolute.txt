@@ -1,0 +1,6 @@
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.csprojAssemblyReference.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.AssemblyInfoInputs.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.AssemblyInfo.cs
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.csproj.CoreCompileInputs.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.MvcApplicationPartsAssemblyInfo.cache
