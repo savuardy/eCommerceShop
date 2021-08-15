@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp5.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\savuard-pc\\source\\repos\\eCommerce shop\\Infrastructure\\Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\savuard-pc\\source\\repos\\eCommerce shop\\Infrastructure\\Infrastructure.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -27,6 +31,16 @@
     "netcoreapp5.0": {
       "dependencies": {
         "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[5.0.9, )"
+        },
+        "Microsoft.EntityFrameworkCore.Design": {
+          "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[5.0.9, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
           "target": "Package",
           "version": "[5.0.9, )"
         }
@@ -49,7 +63,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
     }
   }
 }

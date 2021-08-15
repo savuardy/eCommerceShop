@@ -1,6 +1,56 @@
-C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.csprojAssemblyReference.cache
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.AssemblyInfoInputs.cache
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.AssemblyInfo.cs
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.csproj.CoreCompileInputs.cache
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\appsettings.json
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\eCommerce shop.exe
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\eCommerce shop.deps.json
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\eCommerce shop.runtimeconfig.json
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\eCommerce shop.runtimeconfig.dev.json
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\eCommerce shop.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\ref\eCommerce shop.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\eCommerce shop.pdb
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.csproj.AssemblyReference.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\staticwebassets\eCommerce shop.StaticWebAssets.Manifest.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\staticwebassets\eCommerce shop.StaticWebAssets.xml
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\scopedcss\bundle\eCommerce shop.styles.css
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.RazorTargetAssemblyInfo.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.csproj.CopyComplete
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\ref\eCommerce shop.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.pdb
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.genruntimeconfig.cache
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Core.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Core.pdb
