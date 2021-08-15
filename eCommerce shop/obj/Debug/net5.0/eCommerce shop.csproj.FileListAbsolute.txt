@@ -54,3 +54,5 @@ C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Infrastructure.pdb
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Core.pdb
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
