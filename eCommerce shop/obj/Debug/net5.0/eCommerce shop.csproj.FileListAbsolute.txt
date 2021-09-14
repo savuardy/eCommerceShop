@@ -56,3 +56,8 @@ C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Core.pdb
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\savuard-pc\source\repos\eCommerce shop\eCommerce shop\obj\Debug\net5.0\eCommerce shop.MvcApplicationPartsAssemblyInfo.cs

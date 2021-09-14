@@ -25,10 +25,6 @@ namespace Infrastructure.Data
 
         public async Task<IReadOnlyList<Product>> GetProductsAsync()
         {
-            var typeId = 1;
-
-            var products = _context.Products.Where(x => x.ProductTypeId == typeId);
-            
             return await _context.Products
                 .Include(p=>p.ProductType)
                 .Include(p=>p.ProductBrand)
