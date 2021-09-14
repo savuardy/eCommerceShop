@@ -11,97 +11,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af905ee-bc58-4283-ab1a-39305eb85a72" name="Default Changelist" comment="Minor updates">
-      <change afterPath="$PROJECT_DIR$/Core/Specification/ProductSpecParams.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Specification/ProductsWithFiltersForCountSpecification.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Controllers/BaseApiController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Controllers/BuggyController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Controllers/ErrorController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Errors/ApiException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Errors/ApiResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Errors/ApiValidationErrorResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Helpers/Pagination.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/Middleware/ExceptionMiddleware.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.eCommerce shop/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eCommerce shop/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.eCommerce shop/.idea/dataSources/9808402a-2d51-4905-8508-b564a9a0d0e1.xml" beforeDir="false" />
+    <list default="true" id="6af905ee-bc58-4283-ab1a-39305eb85a72" name="Default Changelist" comment="upd">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.eCommerce shop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.eCommerce shop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Interfaces/IGenericRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Interfaces/IGenericRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Specification/BaseSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specification/BaseSpecification.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Specification/ISpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specification/ISpecification.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Specification/ProductsWithTypesAndBrandsSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specification/ProductsWithTypesAndBrandsSpecification.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/bin/Debug/net5.0/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Core/bin/Debug/net5.0/Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/bin/Debug/net5.0/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Core/bin/Debug/net5.0/Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/bin/Debug/net5.0/ref/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Core/bin/Debug/net5.0/ref/Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/net5.0/Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/net5.0/ref/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/net5.0/ref/Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Data/GenericRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Data/GenericRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Data/ProductRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Data/ProductRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Data/StoreContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Data/StoreContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/Controllers/ProductsContoller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/Controllers/ProductsContoller.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/eCommerce shop.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/eCommerce shop.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/eCommerce shop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/eCommerce shop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/eCommerce shop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/eCommerce shop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/ref/eCommerce shop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/ref/eCommerce shop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/eCommerce shop.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/eCommerce shop.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/ref/eCommerce shop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/ref/eCommerce shop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/eCommerce shop.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/eCommerce shop.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eCommerce shop/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/eCommerce shop/obj/rider.project.restore.info" afterDir="false" />
     </list>
-    <list id="0f9c1d87-8178-4c83-9259-c1b09fdbf372" name="Minor updates" comment="">
-      <change afterPath="$PROJECT_DIR$/Infrastructure/Data/Migrations/20210816074137_InitialCreate.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Infrastructure/Data/Migrations/20210816074137_InitialCreate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Infrastructure/Data/SeedData/brands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Infrastructure/Data/SeedData/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Infrastructure/Data/SeedData/types.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.EntityFrameworkCore.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/bin/Debug/net5.0/AutoMapper.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/boot-ang1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/boot-ang2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/boot-core1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/boot-core2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/boot-redis1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/glove-code1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/glove-code2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/glove-react1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/glove-react2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/hat-core1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/hat-react1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/hat-react2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/sb-ang1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/sb-ang2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/sb-core1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/sb-core2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/sb-react1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eCommerce shop/wwwroot/images/products/sb-ts1.png" afterDir="false" />
-    </list>
+    <list id="0f9c1d87-8178-4c83-9259-c1b09fdbf372" name="Minor updates" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +28,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35E7A078-8B61-4E83-95DA-012D2908B8AB/1A/HostingApplication.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6E966403-7651-4B03-BA52-5BDD038D7212/A/UseMiddlewareExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eCommerce shop/obj/Debug/net5.0/eCommerce shop.MvcApplicationPartsAssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BF354192-8071-4DC1-867A-5E4A81EF7CB4/17/StatusCodePagesMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9DCB8A6F-7FF6-43DA-A3D7-65A7A23ED9D0/90/HttpProtocol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9DCB8A6F-7FF6-43DA-A3D7-65A7A23ED9D0/63/BodyControl.cs" root0="FORCE_HIGHLIGHTING" />
@@ -161,6 +77,10 @@
         <option value="$PROJECT_DIR$/Core/Specification/ProductsWithFiltersForCountSpecification.cs" />
         <option value="$PROJECT_DIR$/eCommerce shop/Startup.cs" />
         <option value="$PROJECT_DIR$/eCommerce shop/Controllers/ProductsContoller.cs" />
+        <option value="$PROJECT_DIR$/client/src/index.html" />
+        <option value="$PROJECT_DIR$/client/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/client/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/client/angular.json" />
       </list>
     </option>
   </component>
@@ -186,6 +106,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="RiderIisExpressOptionsPageId" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\JetBrains Rider 2020.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.eCommerce shop: eCommerce_shop">
@@ -236,7 +157,8 @@
       <workItem from="1628857645867" duration="7545000" />
       <workItem from="1628868791192" duration="938000" />
       <workItem from="1628871464317" duration="43796000" />
-      <workItem from="1631623363754" duration="10806000" />
+      <workItem from="1631623363754" duration="11711000" />
+      <workItem from="1631650323394" duration="5895000" />
     </task>
     <task id="LOCAL-00001" summary="Preparation changes">
       <created>1629033561642</created>
@@ -259,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629126674835</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upd">
+      <created>1631639577665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631639577665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upd">
+      <created>1631639590251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631639590251</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +241,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Preparation changes" />
     <MESSAGE value="Minor updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor updates" />
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2625" y="345" key="#Notifications" timestamp="1629033690119">
@@ -329,25 +266,25 @@
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2619" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1628865789974" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1631637149649">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1631650275493">
+      <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631635947192" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631650275493" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631637149649" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1631637149649">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1631650275493">
+      <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631635947192" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631650275493" />
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631637149649" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1631637149649">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1631650275493">
+      <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631635947192" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631650275493" />
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631637149649" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1631637149649">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1631650275493">
+      <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631635947192" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631650275493" />
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631637149649" />
     <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1629201481016">
       <screen x="1920" y="2" width="1920" height="1040" />
@@ -430,10 +367,10 @@
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2727" y="435" key="VCS.ChangelistChooser/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1629126725193" />
-    <state x="2501" y="254" key="Vcs.Push.Dialog.v2" timestamp="1631639548387">
+    <state x="2501" y="254" key="Vcs.Push.Dialog.v2" timestamp="1631639664971">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2501" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631639548387" />
+    <state x="2501" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.2.1920.1040@1920.2.1920.1040" timestamp="1631639664971" />
     <state x="2754" y="406" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1628936742009">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
